@@ -10,4 +10,4 @@ for (let i = 0; i < topik.length; i++) {
   console.log((i + 1) + ". " + topik[i] + " sudah dipelajari");
 }
 
-console.log("Lanjut terus, target jadi front end engineer!");
+console.log("Lanjut terus, menuju Indonesia Emas 2045!");
